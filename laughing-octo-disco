@@ -1,0 +1,5 @@
+git remote add origin https://github.com/user.git
+git branch -M main
+git push -u https://github.com/mssr85
+cd REPO.git
+$ git push --mirror https://github.com/user/REPO.git
